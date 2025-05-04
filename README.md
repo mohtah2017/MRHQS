@@ -1,1 +1,1 @@
-# MRHQ-School
+# MRHQS
